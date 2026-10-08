@@ -1,0 +1,70 @@
+{
+    "users": {
+        "admin": {
+            "password": "MonMotDePasseAdmin123!",
+            "name": "Administrateur (Toi)",
+            "role": "admin",
+            "tokens": 999999
+        },
+        "client1": {
+            "password": "PasswordClient123!",
+            "name": "Jean Dupont",
+            "role": "client",
+            "tokens": 5
+        }
+    },
+    "database": {
+        "john.doe@gmail.com": {
+            "Nom": "John Doe",
+            "Téléphone": "+33 6 12 34 56 78",
+            "Adresse IP": "192.168.1.45",
+            "Fuites d'origines": [
+                "Breach2023",
+                "ComboList2025"
+            ],
+            "Statut": "Trouvé"
+        },
+        "0601020304": {
+            "Nom": "Alice Martin",
+            "Email": "alice.m@live.fr",
+            "Discord": "AliceM#1234",
+            "Fuites d'origines": [
+                "Forum Leak 2024"
+            ],
+            "Statut": "Trouvé"
+        },
+        "pierre.martin@gmail.com": {
+            "Nom": "Pierre Martin",
+            "Téléphone": "+33 6 98 76 54 32",
+            "Adresse IP": "82.64.12.99",
+            "Pseudos": [
+                "PierreM75",
+                "PM_Dev"
+            ],
+            "Fuites d'origines": [
+                "LinkedIn2021",
+                "Canva2023"
+            ],
+            "Statut": "Trouvé"
+        },
+        "0612345678": {
+            "Nom": "Sophie Bernard",
+            "Email": "sophie.b@outlook.fr",
+            "Ville": "Lyon",
+            "Fuites d'origines": [
+                "Wattpad2020"
+            ],
+            "Statut": "Trouvé"
+        },
+        "dark_shadow": {
+            "Nom": "Inconnu",
+            "Email": "shadow_user@proton.me",
+            "Telegram": "@dark_shadow_official",
+            "Fuites d'origines": [
+                "BreachedForum2024"
+            ],
+            "Statut": "Trouvé"
+        }
+    },
+    "history": []
+}
